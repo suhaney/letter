@@ -1,0 +1,14 @@
+.slider-container{
+    height:100%;
+    width:100%;
+}
+.slider-container img {
+    width:100%;
+    height:160px;
+}
+.song{
+    width:100%;
+}
+.slider-handle{
+     height:100%;
+} 
